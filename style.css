@@ -1,6 +1,7 @@
 body{
-	background:green;
+	background:grey;
 }
-h2{	
+h1{	
+font-size:80px;
  color: red;
 }
